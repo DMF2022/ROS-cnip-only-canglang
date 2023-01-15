@@ -21,7 +21,7 @@ IP地址库搬运自[苍狼](https://ispip.clang.cn/all_cn.txt)，加入ROS的�
 
 ###### 在/System Script下添加如下脚本内容
 ```
-/tool fetch url=https://raw.githubusercontent.com/DMF2022/ROS-cnip-script/main/cnip.rsc
+/tool fetch url=https://raw.githubusercontent.com/DMF2022/ROS-cnip-only-canglang/main/cnip.rsc
 /system logging disable 0
 /import cnip.rsc
 /system logging enable 0
